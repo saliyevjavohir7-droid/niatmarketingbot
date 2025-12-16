@@ -1,6 +1,6 @@
 import React from 'react';
 import { PenTool, Target, TrendingUp, Coins } from 'lucide-react';
-import { ThreeDAsset } from './ui/ThreeDAsset';
+import { ThreeDAsset } from './ThreeDAsset';
 
 const Solutions: React.FC = () => {
   return (
