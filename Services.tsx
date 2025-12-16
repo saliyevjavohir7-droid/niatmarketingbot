@@ -1,6 +1,6 @@
 import React from 'react';
 import { Smartphone, Megaphone, Fingerprint, Crosshair, Palette, Video, Users, PartyPopper, ArrowRight, Settings } from 'lucide-react';
-import { ThreeDAsset } from './ui/ThreeDAsset';
+import { ThreeDAsset } from './ThreeDAsset';
 
 const services = [
   { icon: Smartphone, title: "SMM", desc: "Ijtimoiy tarmoqlarda kontent yaratish, postlar boshqarish va auditoriya o‘sishi." },
